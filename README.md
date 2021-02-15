@@ -1,4 +1,4 @@
-### Hi there 👋
+### GuyEdit is the best Dev
 *"I don’t have friends, I just know a lot of people."* - GuyEdit | github.com/GuyEditDev
 
 
