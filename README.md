@@ -5,9 +5,9 @@ I'm Python, Swift & FullStacks Developper.
 
 I wish learn:
   *-  C# & -CPP*
-  - Ruby
-  - TypeScript
-  
+  *- Ruby*
+  *- TypeScript*
+
 
 - 🔭 I’m currently working on API Documentation
 - 🌱 I’m currently learning JavaScript
