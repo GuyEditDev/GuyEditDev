@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello World ! 
 
-<!--
-**GuyEditDev/GuyEditDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Python, Swift & FullStacks Developper.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I wish learn:
+  *-  C# & -CPP*
+  - Ruby
+  - TypeScript
+  
+
+- 🔭 I’m currently working on API Documentation
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on APIs
+- 🤔 I’m looking for help with a APIs
+- 📫 How to reach me: GuyEdit#0990
+- 😄 Pronouns: He
+- ⚡ I do a little bit of osint.
